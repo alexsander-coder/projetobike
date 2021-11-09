@@ -1,2 +1,2 @@
 # projetobike
-treinando display: grid e display: flex
+pequeno projeto para treinar display: grid com display: flex
